@@ -1,1 +1,2 @@
-i am the newHello.txt from newHello branch
+i am the newHello.txt from newHello branch 
+good
